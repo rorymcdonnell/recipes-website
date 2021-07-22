@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/recipes-website-react/static/css/main.6b50fefa.chunk.css",
-    "main.js": "/recipes-website-react/static/js/main.bec27e9a.chunk.js",
-    "main.js.map": "/recipes-website-react/static/js/main.bec27e9a.chunk.js.map",
-    "runtime-main.js": "/recipes-website-react/static/js/runtime-main.853def70.js",
-    "runtime-main.js.map": "/recipes-website-react/static/js/runtime-main.853def70.js.map",
-    "static/js/2.277493b3.chunk.js": "/recipes-website-react/static/js/2.277493b3.chunk.js",
-    "static/js/2.277493b3.chunk.js.map": "/recipes-website-react/static/js/2.277493b3.chunk.js.map",
-    "static/js/3.6a33e9ad.chunk.js": "/recipes-website-react/static/js/3.6a33e9ad.chunk.js",
-    "static/js/3.6a33e9ad.chunk.js.map": "/recipes-website-react/static/js/3.6a33e9ad.chunk.js.map",
-    "index.html": "/recipes-website-react/index.html",
-    "static/css/main.6b50fefa.chunk.css.map": "/recipes-website-react/static/css/main.6b50fefa.chunk.css.map",
-    "static/js/2.277493b3.chunk.js.LICENSE.txt": "/recipes-website-react/static/js/2.277493b3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/recipes-website-react/static/media/homepage-darker.01d0621c.png"
+    "main.css": "/recipes-website/static/css/main.76e47573.chunk.css",
+    "main.js": "/recipes-website/static/js/main.bec27e9a.chunk.js",
+    "main.js.map": "/recipes-website/static/js/main.bec27e9a.chunk.js.map",
+    "runtime-main.js": "/recipes-website/static/js/runtime-main.60d83749.js",
+    "runtime-main.js.map": "/recipes-website/static/js/runtime-main.60d83749.js.map",
+    "static/js/2.277493b3.chunk.js": "/recipes-website/static/js/2.277493b3.chunk.js",
+    "static/js/2.277493b3.chunk.js.map": "/recipes-website/static/js/2.277493b3.chunk.js.map",
+    "static/js/3.6a33e9ad.chunk.js": "/recipes-website/static/js/3.6a33e9ad.chunk.js",
+    "static/js/3.6a33e9ad.chunk.js.map": "/recipes-website/static/js/3.6a33e9ad.chunk.js.map",
+    "index.html": "/recipes-website/index.html",
+    "static/css/main.76e47573.chunk.css.map": "/recipes-website/static/css/main.76e47573.chunk.css.map",
+    "static/js/2.277493b3.chunk.js.LICENSE.txt": "/recipes-website/static/js/2.277493b3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/recipes-website/static/media/homepage-darker.01d0621c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.853def70.js",
+    "static/js/runtime-main.60d83749.js",
     "static/js/2.277493b3.chunk.js",
-    "static/css/main.6b50fefa.chunk.css",
+    "static/css/main.76e47573.chunk.css",
     "static/js/main.bec27e9a.chunk.js"
   ]
 }
