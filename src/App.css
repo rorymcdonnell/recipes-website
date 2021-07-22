@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: Roboto;
+}
+
+/* Homepage */
+.home-page {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(".././src/images/homepage-darker.png");
+}
+.home-title {
+  color: white;
+  padding: 5rem 1rem;
+}
+.home-input {
+  padding: 5rem 1rem;
+}
+.home-searchbar {
+  height: 2rem;
+  width: 25%;
+  border-radius: 50px;
+  border: solid 1px white;
+}
